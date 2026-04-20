@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a PhD student at the University of Wollongong studying the role of microlgia, the brain's immune system, in Motor Neuron Disease
+## I'm a PhD student at the University of Wollongong studying the role of microglia, the brain's immune system, in Motor Neuron Disease
